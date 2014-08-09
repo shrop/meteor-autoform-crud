@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "git": "file:///Users/shrop/Projects/Community/meteor-autoform-crud",
   "packages": {
-    "autoform": {}
+    "autoform": {},
     "simple-schema": {},
     "collection2": {},
     "moment": {}
