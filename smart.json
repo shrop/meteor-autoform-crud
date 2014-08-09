@@ -1,0 +1,14 @@
+{
+  "name": "autoform-crud",
+  "description": "Easy to setup autoform-based CRUD forms for collections.",
+  "homepage": "",
+  "author": "Mark Shropshire <mdshrops@shropnet.net> (http://mark.shropshires.net)",
+  "version": "0.0.1",
+  "git": "file:///Users/shrop/Projects/Community/meteor-autoform-crud",
+  "packages": {
+    "autoform": {}
+    "simple-schema": {},
+    "collection2": {},
+    "moment": {}
+  }
+}
